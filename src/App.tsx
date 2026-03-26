@@ -87,7 +87,7 @@ export default function App() {
                 <img 
                   alt="Gourmet bowl of poha" 
                   className="w-full h-full object-cover" 
-                  src="https://lh3.googleusercontent.com/aida-public/AB6AXuD4pLgtH_fJRoKIiSfl2mZFnZDUIfZu4JVf4aCtSnrA6oF7k7AT_4XjMj0jgj1EQHY6OfE4fwXq6PIMLMb7lgwGZTI2rLZumewoFqya-v85ZPfUGsKQul1R305i0L96GiiOHYzw9cU9g0JIPVPjGX9T-oG99qEgEMHwRxoLeSx5zx6fQukDNGPr5XFu6UAYwJoP_nxLNuy6t7vWhYr1brK8-C7KJtHAUnoVmI_2tgGWsfXDWQPpy-3Po9eP1II1mCPFsjUnhQTyaX4"
+                  src="https://lh3.googleusercontent.com/aida-public/AB6AXuD_qihHZkGIXXvLCTnI35HYV2z_ABd0cCfHkFlHET9H3UqDAouTUvri8sHbbkMdOx_On_-pN6jsvBnONz-inF7IhR54k7FSastnf6Ue2EtcYpKf36umiwmH7hdWebV323BPNP8oVq7-dBWlj4H2RSK8qqCZNgW9aUeU8N1MeXDab4xuDMfpkPcsM8fGJqgnNqKR673BxFZzYRN26f85gOhes0O4BXX8AgcOOreedEa27elneWrit_BdF3lqXE5Ow_WHAEzYPgoEuyo"
                   referrerPolicy="no-referrer"
                 />
               </div>
