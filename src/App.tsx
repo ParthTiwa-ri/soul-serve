@@ -331,7 +331,7 @@ export default function App() {
           <div className="flex flex-col items-center md:items-start gap-2">
             <span className="text-lg font-bold text-[#1a1c1c] font-headline">Soul Serve</span>
             <p className="font-body text-sm tracking-wide text-neutral-500 text-center md:text-left">
-              © 2024 Soul Serve. Nourishing your journey.
+              © 2026 Soul Serve. Nourishing your journey.
             </p>
           </div>
           <div className="flex gap-8">
